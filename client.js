@@ -1,7 +1,5 @@
 var ms = require('minestat');
-module.exports = function check() {
-  ms.init('mc.coreycraft.us', 25565, function(result)
-{
+  ms.init('mc.coreycraft.us', 25565, function(result) {
   console.log("Minecraft server status of " + ms.address + " on port " + ms.port + ":");
   if(ms.online)
   {
@@ -13,5 +11,4 @@ module.exports = function check() {
   {
     console.log("Server is offline!");
   }
-})
-}
+});
