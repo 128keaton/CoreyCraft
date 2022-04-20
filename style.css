@@ -9,6 +9,7 @@ html {
   background: url(https://github.com/128keaton/CoreyCraft/blob/main/dirt.jpg?raw=true);
   background-size: 100px;
   margin: 0;
+  overflow: hidden;
 }
 
 
