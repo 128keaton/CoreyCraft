@@ -81,6 +81,7 @@ h2 {
 
 
 .viewport {
+  margin: 3em;
   -webkit-perspective: 800px;
   -moz-perspective: 800px;
   -ms-perspective: 800px;
