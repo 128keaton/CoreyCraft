@@ -59,7 +59,7 @@ h2 {
   overflow: hidden;
   border: 3px solid #fff;
   box-shadow: 0 4px 3px #0002;
-  z-index: 9
+  z-index: 9;
 }
 
 .icon img {
@@ -70,5 +70,6 @@ h2 {
 #rest {
   padding: 30px 15px;
   line-height: 30px;
-  color: #000d42
+  color: #000d42;
+  min-height: 120px;
 }
