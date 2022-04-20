@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/128keaton/CoreyCraft#readme",
   "dependencies": {
+    "browserify": "^17.0.0",
     "minestat": "^1.0.3"
   }
 }
